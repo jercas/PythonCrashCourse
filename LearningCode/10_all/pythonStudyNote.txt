@@ -1,0 +1,6 @@
+The zen of python.
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Flat is better than complicated.
+Sparse is better than dense.
